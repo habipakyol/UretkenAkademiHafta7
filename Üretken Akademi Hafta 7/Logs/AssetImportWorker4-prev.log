@@ -1,0 +1,952 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.18f1 (3129e69bc0c7) revision 3221990'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Professional' Language: 'tr' Physical Memory: 16125 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.18f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Users/habip/OneDrive/Masaüstü/UNITY/ödevler/Üretken Akademi Hafta 7
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+61775
+Successfully changed project path to: C:/Users/habip/OneDrive/Masaüstü/UNITY/ödevler/Üretken Akademi Hafta 7
+C:/Users/habip/OneDrive/Masaüstü/UNITY/ödevler/Üretken Akademi Hafta 7
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [12604] Host "[IP] 192.168.1.15 [Port] 0 [Flags] 2 [Guid] 2798389251 [EditorId] 2798389251 [Version] 1048832 [Id] WindowsEditor(7,AKYOL) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [12604] Host "[IP] 192.168.1.15 [Port] 0 [Flags] 2 [Guid] 2798389251 [EditorId] 2798389251 [Version] 1048832 [Id] WindowsEditor(7,AKYOL) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 79.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.18f1 (3129e69bc0c7)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/habip/OneDrive/Masaüstü/UNITY/ödevler/Üretken Akademi Hafta 7/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x25a0)
+    Vendor:   NVIDIA
+    VRAM:     3976 MB
+    Driver:   31.0.15.3667
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56220
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003958 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 180 ms
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 62.02 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.732 seconds
+Domain Reload Profiling:
+	ReloadAssembly (732ms)
+		BeginReloadAssembly (78ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (541ms)
+			LoadAssemblies (75ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (89ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (21ms)
+			SetupLoadedEditorAssemblies (392ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (232ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (62ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (66ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002884 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\habip\OneDrive\Masaüstü\UNITY\ödevler\Üretken Akademi Hafta 7\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\habip\OneDrive\Masaüstü\UNITY\ödevler\Üretken Akademi Hafta 7\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.918 seconds
+Domain Reload Profiling:
+	ReloadAssembly (918ms)
+		BeginReloadAssembly (104ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (22ms)
+		EndReloadAssembly (704ms)
+			LoadAssemblies (78ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (274ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (272ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (18ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (63ms)
+				ProcessInitializeOnLoadAttributes (166ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3101 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (113.9 KB). Loaded Objects now: 3566.
+Memory consumption went from 112.4 MB to 112.3 MB.
+Total: 2.938600 ms (FindLiveObjects: 0.275300 ms CreateObjectMapping: 0.086000 ms MarkObjects: 2.446200 ms  DeleteObjects: 0.129900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003430 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\habip\OneDrive\Masaüstü\UNITY\ödevler\Üretken Akademi Hafta 7\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\habip\OneDrive\Masaüstü\UNITY\ödevler\Üretken Akademi Hafta 7\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.916 seconds
+Domain Reload Profiling:
+	ReloadAssembly (916ms)
+		BeginReloadAssembly (123ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (697ms)
+			LoadAssemblies (65ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (251ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (293ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (26ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (61ms)
+				ProcessInitializeOnLoadAttributes (181ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3082 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (80.5 KB). Loaded Objects now: 3569.
+Memory consumption went from 110.9 MB to 110.8 MB.
+Total: 5.757200 ms (FindLiveObjects: 0.336300 ms CreateObjectMapping: 0.339700 ms MarkObjects: 4.588500 ms  DeleteObjects: 0.490300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 481147.336936 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020
+  artifactKey: Guid(55f3a323987e585498c974a112d28dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020 using Guid(55f3a323987e585498c974a112d28dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bdfa9087cc8c2b90361249292105ab9') in 0.017498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.043790 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Preview.jpg
+  artifactKey: Guid(7034475614456f94b9d30eba28ee3328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Preview.jpg using Guid(7034475614456f94b9d30eba28ee3328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ac7c0961d12dcc717a3dd62544b535e') in 0.066659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.545238 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends
+  artifactKey: Guid(766eadaca146b0840a426f7f54ca8470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends using Guid(766eadaca146b0840a426f7f54ca8470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cba9627fbaf808599a04c27a1191a67') in 0.008356 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.195482 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Bathroom_Bathtub.blend
+  artifactKey: Guid(018038ebf2e08b5478d8e916ad58412f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Bathroom_Bathtub.blend using Guid(018038ebf2e08b5478d8e916ad58412f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad7125f7db04fed22a57b3e8dc83f129') in 0.105596 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Bed_Bunk.blend
+  artifactKey: Guid(e5ddd00823c24294d85eb7be13d59d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Bed_Bunk.blend using Guid(e5ddd00823c24294d85eb7be13d59d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02efca3da50a4126cdadd4a6f8583a2d') in 0.066154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Bed_Single.blend
+  artifactKey: Guid(ecf7c8e8a3e0b2943ab47c7daeeb4742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Bed_Single.blend using Guid(ecf7c8e8a3e0b2943ab47c7daeeb4742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '382dd08fd4a894501b862eda9256e71c') in 0.078523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Curtains_Single.blend
+  artifactKey: Guid(d8feaabca9e48d34ca2aabbe1453969b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Curtains_Single.blend using Guid(d8feaabca9e48d34ca2aabbe1453969b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0300f162d972eb9ac928d7f68bc928de') in 0.045996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Door_6.blend
+  artifactKey: Guid(bc493abb3190d0342b1848bdfd2b4a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Door_6.blend using Guid(bc493abb3190d0342b1848bdfd2b4a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95aa4fda58f5fb8edbf12b91f4a64535') in 0.052902 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Houseplant_7.blend
+  artifactKey: Guid(1e1bacedfeae0da498e70db30f09d8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Houseplant_7.blend using Guid(1e1bacedfeae0da498e70db30f09d8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a88710805625308ded60070525cce22') in 0.027384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Kitchen_Oven.blend
+  artifactKey: Guid(6d83f765dbab76f4999e47b14bee1a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Kitchen_Oven.blend using Guid(6d83f765dbab76f4999e47b14bee1a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19891377a491035e11a946af69bcbf4e') in 0.040934 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Bathroom_Towel.blend
+  artifactKey: Guid(a74af87fc25a6e74ca6bd9865890ad25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Bathroom_Towel.blend using Guid(a74af87fc25a6e74ca6bd9865890ad25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '828a5a3e629a1986fb43bc4f56cd8559') in 0.030405 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Houseplant_5.blend
+  artifactKey: Guid(ed6a465bf56963d40be8f823409f23d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Houseplant_5.blend using Guid(ed6a465bf56963d40be8f823409f23d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88aa7805085881ae15cc626bb2dd9ae7') in 0.025297 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Houseplant_4.blend
+  artifactKey: Guid(4159b3ca74505c343bb261a7fea12001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Houseplant_4.blend using Guid(4159b3ca74505c343bb261a7fea12001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62aea65d99645a42ae6e8de13976efa8') in 0.027364 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Column_Round3.blend
+  artifactKey: Guid(cdcabd98c68e09e4686272ef2cc27954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Column_Round3.blend using Guid(cdcabd98c68e09e4686272ef2cc27954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ebb16df28402a78ad607ab17e22baac') in 0.018787 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Carpet_Round.blend
+  artifactKey: Guid(369b41da21a9a854f84e1f832dadf056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Carpet_Round.blend using Guid(369b41da21a9a854f84e1f832dadf056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fa8f80ca82b3794850651224378e4d2') in 0.020966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Couch_Large3.blend
+  artifactKey: Guid(2f42b12ffe98ec346a8ec4c02321eb9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Couch_Large3.blend using Guid(2f42b12ffe98ec346a8ec4c02321eb9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e94432cc04b5501d05f5d5f5fc4d842') in 0.020552 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Door_9.blend
+  artifactKey: Guid(66fd583f240fb30459ef9576de8c0ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Door_9.blend using Guid(66fd583f240fb30459ef9576de8c0ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48f79bb8a1725e7a033dcb367a6f6dba') in 0.025260 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Carpet_1.blend
+  artifactKey: Guid(943a5d3f8f1adb94fb415e436a03bc02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Carpet_1.blend using Guid(943a5d3f8f1adb94fb415e436a03bc02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa88b73b0181cd24557ac38dff505946') in 0.025124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Houseplant_6.blend
+  artifactKey: Guid(31dcb0eaea24daf4a9f77673096b6614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Houseplant_6.blend using Guid(31dcb0eaea24daf4a9f77673096b6614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '869aaeb5da0d52f39ab9421c32f737d2') in 0.028443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Couch_Large2.blend
+  artifactKey: Guid(f472e4364381c324e812bba95d75352c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Couch_Large2.blend using Guid(f472e4364381c324e812bba95d75352c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f60958a8b1cf36be1b8b6d8850ed4276') in 0.027399 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Curtains_Double.blend
+  artifactKey: Guid(6dacb7595234e7844a2ece7f14902a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Curtains_Double.blend using Guid(6dacb7595234e7844a2ece7f14902a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '040040b0e5c9567642d732cc69bdf3d2') in 0.023579 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Kitchen_CabinetSmall.blend
+  artifactKey: Guid(1b8282d3384dbf64bb181eec5e7dd63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Kitchen_CabinetSmall.blend using Guid(1b8282d3384dbf64bb181eec5e7dd63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39037c5f7d2c8cedd7ba622b3980e5ed') in 0.022328 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Bathroom_Toilet2.blend
+  artifactKey: Guid(e0e77d8ed950df04986b80146f6c7e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Bathroom_Toilet2.blend using Guid(e0e77d8ed950df04986b80146f6c7e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '729662d85922f47f116781abb6613b91') in 0.020305 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Drawer_2.blend
+  artifactKey: Guid(b3af944ed5ed8c64184eea9a57ee80c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Drawer_2.blend using Guid(b3af944ed5ed8c64184eea9a57ee80c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c0fafd8e75377142bd96be96c203b4f') in 0.028418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Couch_Medium2.blend
+  artifactKey: Guid(b25283b9c3bd9444eb8cb6173ebc5638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Couch_Medium2.blend using Guid(b25283b9c3bd9444eb8cb6173ebc5638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '469708b4504cdf1addffaad55088b4f9') in 0.023969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Kitchen_Cabinet1.blend
+  artifactKey: Guid(43608aa174ad35e47a1c43505f10b118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Kitchen_Cabinet1.blend using Guid(43608aa174ad35e47a1c43505f10b118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7399d6f8bf9aa885d92dd6d0860223f') in 0.025710 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Drawer_5.blend
+  artifactKey: Guid(9a4696c83d846064996bd77ac3c6b62f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Drawer_5.blend using Guid(9a4696c83d846064996bd77ac3c6b62f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29075a403352a93099812199c2566e97') in 0.030491 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Kitchen_Fridge.blend
+  artifactKey: Guid(2a76fcbde5259d34d8e2954d510d8642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Kitchen_Fridge.blend using Guid(2a76fcbde5259d34d8e2954d510d8642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3266e4ad16a3429bb1fdc99ba65fb49b') in 0.027571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Light_Ceiling6.blend
+  artifactKey: Guid(15d7ffb675b95d54dafddd12eee092d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Light_Ceiling6.blend using Guid(15d7ffb675b95d54dafddd12eee092d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c3111945637137e0d6f7952ec126a90') in 0.030052 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Fork.blend
+  artifactKey: Guid(d590ccde1b60621479697d5f1e3bdb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Fork.blend using Guid(d590ccde1b60621479697d5f1e3bdb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af1b546cc5ae25e553b6f05ae266c274') in 0.025778 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Light_CeilingSingle.blend
+  artifactKey: Guid(3e0fa1f8fca48fe4ba97641ec1ce1a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Light_CeilingSingle.blend using Guid(3e0fa1f8fca48fe4ba97641ec1ce1a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '504e591c5b228f49c552b40b474858fe') in 0.032776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Bathroom_Sink.blend
+  artifactKey: Guid(60f6f7988878ec547aa7664864186aae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Bathroom_Sink.blend using Guid(60f6f7988878ec547aa7664864186aae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fcf9ac6ea651eaa61a5aa6c76b83938') in 0.029836 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Houseplant_8.blend
+  artifactKey: Guid(82748c56b9af20c40a8d43ed27dae905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Houseplant_8.blend using Guid(82748c56b9af20c40a8d43ed27dae905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69b8af3ab840e39749da0570068434fa') in 0.041385 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Kitchen_Sink.blend
+  artifactKey: Guid(de3efd2d9becd79479192ce300732faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Kitchen_Sink.blend using Guid(de3efd2d9becd79479192ce300732faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18abef9202ebc58caec13608532304fc') in 0.035895 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Chair_4.blend
+  artifactKey: Guid(ff066cd077d79af4aa25e6949afcdcc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Chair_4.blend using Guid(ff066cd077d79af4aa25e6949afcdcc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af4c4d3a68c94d05141e03f4c76175f8') in 0.023930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Couch_Medium1.blend
+  artifactKey: Guid(e76fcb1fba55cfd4ea659839732e77b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Couch_Medium1.blend using Guid(e76fcb1fba55cfd4ea659839732e77b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eda961159e5e319dfca522dc2bd2143') in 0.031580 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Column_Round1.blend
+  artifactKey: Guid(34c8727d4054d6641917c73459fd091d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Column_Round1.blend using Guid(34c8727d4054d6641917c73459fd091d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42570539245157953220ae07568a316b') in 0.026108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Door_2.blend
+  artifactKey: Guid(baf0079c1ca75a041b03f95dfd720374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Door_2.blend using Guid(baf0079c1ca75a041b03f95dfd720374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86f88a544b31809bf22bdc023728c60c') in 0.030163 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Door_1.blend
+  artifactKey: Guid(ba00dc0cf71136c4e8da9554d855802b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Door_1.blend using Guid(ba00dc0cf71136c4e8da9554d855802b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '415401e5a78b505e77bf8d0a0ce9217a') in 0.024504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Bed_King.blend
+  artifactKey: Guid(6ce86483aa3cf6642a55ad58aca2eae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Bed_King.blend using Guid(6ce86483aa3cf6642a55ad58aca2eae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7b0e3cbaebcb94b024175a3d930847c') in 0.033511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Couch_Large1.blend
+  artifactKey: Guid(f69708969cf10454dadf45fb2f4b8a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Couch_Large1.blend using Guid(f69708969cf10454dadf45fb2f4b8a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e851fa0183d27730ea3b7e0de5f8e39e') in 0.020938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Light_Chandelier.blend
+  artifactKey: Guid(8428028e24890cc4fa52c8c5f6f6feff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Light_Chandelier.blend using Guid(8428028e24890cc4fa52c8c5f6f6feff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0bcc22e221163bf3c38c512ecd75b9c') in 0.025469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Kitchen_3Drawers.blend
+  artifactKey: Guid(2e51f0e30f1f3124c9bd3cafa344de82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/Blends/Kitchen_3Drawers.blend using Guid(2e51f0e30f1f3124c9bd3cafa344de82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7aab204a92fbdba8c475f5f8865113d') in 0.030113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.462290 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Bathroom_Bathtub.fbx
+  artifactKey: Guid(82a59d3d7c4285e47a376c56e47f813d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Bathroom_Bathtub.fbx using Guid(82a59d3d7c4285e47a376c56e47f813d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7730539e693a68c4015b8e7df8b306df') in 0.041598 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Bathroom_WashingMachine.fbx
+  artifactKey: Guid(c905055e9fbe07446b5aae9c4e266afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Bathroom_WashingMachine.fbx using Guid(c905055e9fbe07446b5aae9c4e266afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a7a9e827a7e6eb0715f011a06be4e9c') in 0.059647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Fireplace.fbx
+  artifactKey: Guid(b4b88336bf94a0b49a6b2c525783c4b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Fireplace.fbx using Guid(b4b88336bf94a0b49a6b2c525783c4b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1efeedc7ec6075bc150498ae48269872') in 0.044525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Bathroom_ToiletPaperPile.fbx
+  artifactKey: Guid(1e2cb6bbfa4bc6345932f3f1101989f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Bathroom_ToiletPaperPile.fbx using Guid(1e2cb6bbfa4bc6345932f3f1101989f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf104841fd0c23eaecea21ccd45d7e01') in 0.025353 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Houseplant_5.fbx
+  artifactKey: Guid(fc2664cb4199d9c4a87f32e2b58a48c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Houseplant_5.fbx using Guid(fc2664cb4199d9c4a87f32e2b58a48c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dedde6da8acfaf911bbf0695f326068c') in 0.027244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Light_CeilingSingle.fbx
+  artifactKey: Guid(a421003fd00cb3543975dbddac7b75ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Light_CeilingSingle.fbx using Guid(a421003fd00cb3543975dbddac7b75ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8209ed93f0f1dfd97c8952c5fa7d177') in 0.028087 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Kitchen_Fridge.fbx
+  artifactKey: Guid(df340f0d73688aa408c3feda6bdcc9b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Kitchen_Fridge.fbx using Guid(df340f0d73688aa408c3feda6bdcc9b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca3652fb8e20c772f33850db3686844a') in 0.025115 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Drawer_5.fbx
+  artifactKey: Guid(edef4918d7ba2f141bff36a3d791ea99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Drawer_5.fbx using Guid(edef4918d7ba2f141bff36a3d791ea99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '268517086a0659738cae618f2a23ef0a') in 0.025596 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Door_Double.fbx
+  artifactKey: Guid(14f415987b87f03478b6fd8005131976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Door_Double.fbx using Guid(14f415987b87f03478b6fd8005131976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85f0beeff284d9a2c305862c2433efd4') in 0.036711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Kitchen_Cabinet2.fbx
+  artifactKey: Guid(0b3d133ea5961da4f94f50d0fc43e80e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Kitchen_Cabinet2.fbx using Guid(0b3d133ea5961da4f94f50d0fc43e80e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '725f0332ad086c366854d8c05b5ca0a7') in 0.024622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Chair_2.fbx
+  artifactKey: Guid(c0318ef702d269b4e96f92b7574a61a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Chair_2.fbx using Guid(c0318ef702d269b4e96f92b7574a61a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b50eb50f8c9f12916721c417f3f2e3f3') in 0.023336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Column_SquareSmall.fbx
+  artifactKey: Guid(9febf163bffab324aa23966caf5d162b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Column_SquareSmall.fbx using Guid(9febf163bffab324aa23966caf5d162b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd47e6992da950b51ec0bcf98e054310c') in 0.019446 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Column_SquareBig.fbx
+  artifactKey: Guid(ffedf61aeb2efdb45a33e8c9a9e8a48d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Column_SquareBig.fbx using Guid(ffedf61aeb2efdb45a33e8c9a9e8a48d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43e60072aafe339c4dd20332a2357e6c') in 0.019918 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Light_Ceiling2.fbx
+  artifactKey: Guid(5a16388c8a6f0514880169063cf9ca7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Light_Ceiling2.fbx using Guid(5a16388c8a6f0514880169063cf9ca7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b83f1a89d2ad789d447faaba6defdaac') in 0.026325 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Chair_3.fbx
+  artifactKey: Guid(522051f951e1adb4f91c99bd2abc6b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Chair_3.fbx using Guid(522051f951e1adb4f91c99bd2abc6b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f80497779f51aa4527d6580ad82f8552') in 0.025052 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Couch_Small1.fbx
+  artifactKey: Guid(9dc8e15aa6755d644ab42bd1669a55e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Couch_Small1.fbx using Guid(9dc8e15aa6755d644ab42bd1669a55e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd1e3a970c86f79f55e80c4b4d8574e9') in 0.026336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Bathroom_Toilet2.fbx
+  artifactKey: Guid(e9d009a7158a1a84c9bbb9ba25f38419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Bathroom_Toilet2.fbx using Guid(e9d009a7158a1a84c9bbb9ba25f38419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1089b416fbef6a66197360089a779a4c') in 0.022221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Door_8.fbx
+  artifactKey: Guid(303a2c44d81f0ca4a8948d01cf49c501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Door_8.fbx using Guid(303a2c44d81f0ca4a8948d01cf49c501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1baffa59eb8eed9a9a7acba72d98e0a0') in 0.027169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Houseplant_2.fbx
+  artifactKey: Guid(a5ccb1786933be04c85b78921d7a7061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Houseplant_2.fbx using Guid(a5ccb1786933be04c85b78921d7a7061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39acd25d60dc4d84b1f0b6226eefd053') in 0.028778 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Kitchen_Oven_Large.fbx
+  artifactKey: Guid(5e3cebcd42a808645912f3b0afce0666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Kitchen_Oven_Large.fbx using Guid(5e3cebcd42a808645912f3b0afce0666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b314ddb5615de4d543c60c2ffa49d4') in 0.037808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Door_1.fbx
+  artifactKey: Guid(a172f18cc7bece74990479c3a5b90b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Door_1.fbx using Guid(a172f18cc7bece74990479c3a5b90b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'deab18ea5e58b71e3c9be87ec1ffae03') in 0.022750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Kitchen_Oven.fbx
+  artifactKey: Guid(fb9d2ffb201ee5f43b954b581d676771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Kitchen_Oven.fbx using Guid(fb9d2ffb201ee5f43b954b581d676771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf7177100e577b2671c95946df5b0c34') in 0.034344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.151169 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Bathroom_Bathtub.obj
+  artifactKey: Guid(7b3bc5da1da72d84db76d3815234e172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Bathroom_Bathtub.obj using Guid(7b3bc5da1da72d84db76d3815234e172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd7941310a581ebc45ead0d42826343c') in 0.025360 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Bed_Bunk.obj
+  artifactKey: Guid(cfd80a13fdcffc547a02b65f6cbf77b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Bed_Bunk.obj using Guid(cfd80a13fdcffc547a02b65f6cbf77b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b95a0e9a7f5024ba6a1e810a30bd0f61') in 0.037289 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Couch_Large1.obj
+  artifactKey: Guid(5fb9385d1fff3ae4f907d55de9c4174b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Couch_Large1.obj using Guid(5fb9385d1fff3ae4f907d55de9c4174b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034a4e61566102c5531e11ef60785b0d') in 0.026483 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Column_Round3.obj
+  artifactKey: Guid(57ef6c4f6fd4d0e448a25a648b3dcf49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Column_Round3.obj using Guid(57ef6c4f6fd4d0e448a25a648b3dcf49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45f36399000e19afae3b7d6a34c92e4c') in 0.024160 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Chair_3.obj
+  artifactKey: Guid(16dbde4dfdc0b0849aa78c903314c259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Chair_3.obj using Guid(16dbde4dfdc0b0849aa78c903314c259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70bb7b2f64c1a11cc34ee1bdbb51b4d2') in 0.025321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Bathroom_WashingMachine.obj
+  artifactKey: Guid(66a7d6be16b80d84689d8f407ca93db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Bathroom_WashingMachine.obj using Guid(66a7d6be16b80d84689d8f407ca93db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33979f33f5977c6d8c04ef1d323481dc') in 0.029332 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Curtains_Single.obj
+  artifactKey: Guid(2707a4c7a0987b0448860bb963ed70a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Curtains_Single.obj using Guid(2707a4c7a0987b0448860bb963ed70a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fae5b6845e7bb0705406e992cceb1fa6') in 0.023832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Carpet_1.obj
+  artifactKey: Guid(d70dddc71a87ebd4d83e9f37cf9688af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Carpet_1.obj using Guid(d70dddc71a87ebd4d83e9f37cf9688af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73b837d409447bf8133101071ee9364b') in 0.025406 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Bathroom_ToiletPaperPile.obj
+  artifactKey: Guid(1f123b20fbedbc64c996286102db35ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Bathroom_ToiletPaperPile.obj using Guid(1f123b20fbedbc64c996286102db35ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0942f4268aaa47281a7c46308a48efa') in 0.025783 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Curtains_Double.obj
+  artifactKey: Guid(c0a0791d6c1af0b47929e2622af08b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/OBJ/Curtains_Double.obj using Guid(c0a0791d6c1af0b47929e2622af08b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57725b800730bfb94837ad3e1cbb8acf') in 0.026494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.649381 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX
+  artifactKey: Guid(64bdb1e2ad49ce0409b69492284fc3db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX using Guid(64bdb1e2ad49ce0409b69492284fc3db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1789c2d5fd1094787f9a6a5618c5a2a0') in 0.009646 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003589 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\habip\OneDrive\Masaüstü\UNITY\ödevler\Üretken Akademi Hafta 7\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\habip\OneDrive\Masaüstü\UNITY\ödevler\Üretken Akademi Hafta 7\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.942 seconds
+Domain Reload Profiling:
+	ReloadAssembly (942ms)
+		BeginReloadAssembly (111ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (736ms)
+			LoadAssemblies (64ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (266ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (310ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (25ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (64ms)
+				ProcessInitializeOnLoadAttributes (196ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3082 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (80.6 KB). Loaded Objects now: 3618.
+Memory consumption went from 116.0 MB to 115.9 MB.
+Total: 5.600300 ms (FindLiveObjects: 0.328700 ms CreateObjectMapping: 0.174300 ms MarkObjects: 4.939600 ms  DeleteObjects: 0.155900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002670 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\habip\OneDrive\Masaüstü\UNITY\ödevler\Üretken Akademi Hafta 7\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\habip\OneDrive\Masaüstü\UNITY\ödevler\Üretken Akademi Hafta 7\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.958 seconds
+Domain Reload Profiling:
+	ReloadAssembly (959ms)
+		BeginReloadAssembly (118ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (750ms)
+			LoadAssemblies (64ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (270ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (311ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (29ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (63ms)
+				ProcessInitializeOnLoadAttributes (193ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3082 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (80.5 KB). Loaded Objects now: 3621.
+Memory consumption went from 116.0 MB to 115.9 MB.
+Total: 5.334900 ms (FindLiveObjects: 0.402500 ms CreateObjectMapping: 0.303100 ms MarkObjects: 4.490300 ms  DeleteObjects: 0.132700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 54.713480 seconds.
+  path: Assets/Obstacle/Bathroom_Bathtub.prefab
+  artifactKey: Guid(4d3784776fadb60448d69135304bfabc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Bathroom_Bathtub.prefab using Guid(4d3784776fadb60448d69135304bfabc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8974348f4979491c964f69e225fd3a38') in 0.075128 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.059363 seconds.
+  path: Assets/Obstacle/Bathroom_Toilet.prefab
+  artifactKey: Guid(216ff9178c7bd15438bd076d4e4aed78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Bathroom_Toilet.prefab using Guid(216ff9178c7bd15438bd076d4e4aed78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e137a8909acc0db5901b6e84003f52f8') in 0.022173 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.692950 seconds.
+  path: Assets/Obstacle/kuvet.prefab
+  artifactKey: Guid(4d3784776fadb60448d69135304bfabc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/kuvet.prefab using Guid(4d3784776fadb60448d69135304bfabc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da755129bef7fdc77e0902581e2c141') in 0.017329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.636867 seconds.
+  path: Assets/Obstacle/klozet.prefab
+  artifactKey: Guid(216ff9178c7bd15438bd076d4e4aed78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/klozet.prefab using Guid(216ff9178c7bd15438bd076d4e4aed78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b769f1f491455276367d891261ad6be8') in 0.017290 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.188545 seconds.
+  path: Assets/Obstacle/Bed_Bunk.prefab
+  artifactKey: Guid(12ab384c988767d408c66a8525d17c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Bed_Bunk.prefab using Guid(12ab384c988767d408c66a8525d17c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a181fa6581d3a4347cf928b8c4e87b') in 0.025415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.485632 seconds.
+  path: Assets/Obstacle/yatak.prefab
+  artifactKey: Guid(12ab384c988767d408c66a8525d17c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/yatak.prefab using Guid(12ab384c988767d408c66a8525d17c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5beb1b160a4b61b7db3acabd4ca94aaa') in 0.017341 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 41.181895 seconds.
+  path: Assets/Obstacle/klozet.prefab
+  artifactKey: Guid(216ff9178c7bd15438bd076d4e4aed78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/klozet.prefab using Guid(216ff9178c7bd15438bd076d4e4aed78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4915dc6ec0ef78aec5104885cc3d1c95') in 0.011818 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.992002 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Light_Cube.fbx
+  artifactKey: Guid(f239ee4c24afb284dadf19ecc66afae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Light_Cube.fbx using Guid(f239ee4c24afb284dadf19ecc66afae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e204267412d2ebef5958b3b82ae72198') in 0.052115 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Light_Floor2.fbx
+  artifactKey: Guid(9fb13ac4a2a741a4893f5ba509a63e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Light_Floor2.fbx using Guid(9fb13ac4a2a741a4893f5ba509a63e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '856fac931518760424d4d4dae639b8f7') in 0.028760 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Light_Small.fbx
+  artifactKey: Guid(4788860aaea25fd4292b9575f1d2cd32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Light_Small.fbx using Guid(4788860aaea25fd4292b9575f1d2cd32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdf72141b9a0c987f0b761ea78434288') in 0.030789 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Light_Floor3.fbx
+  artifactKey: Guid(41526c314db674049acfac16b7c1156c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Light_Floor3.fbx using Guid(41526c314db674049acfac16b7c1156c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c32396e46c1caec16a5ccdbd2c3b3daa') in 0.025747 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/NightStand_3.fbx
+  artifactKey: Guid(94bc228b07f688549814232fc6f8f013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/NightStand_3.fbx using Guid(94bc228b07f688549814232fc6f8f013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68ac5eda3c0c577b99a690071ef3d215') in 0.030246 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Plate_1.fbx
+  artifactKey: Guid(bcd79d89868b4eb41a9a188a3626a500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Plate_1.fbx using Guid(bcd79d89868b4eb41a9a188a3626a500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fa224511c6822f04ef6a560a9646f1e') in 0.022777 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/NightStand_2.fbx
+  artifactKey: Guid(21f3a89ad7a64284cba156ba1d12268b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/NightStand_2.fbx using Guid(21f3a89ad7a64284cba156ba1d12268b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aa1c737983532d7d1c4d49259e4e4b2') in 0.027859 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Light_Stand2.fbx
+  artifactKey: Guid(e87e000bbb80f7941a9f2012ac9b85e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Light_Stand2.fbx using Guid(e87e000bbb80f7941a9f2012ac9b85e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b894ae30eb3b8c5a33ef35854322aec9') in 0.026796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Light_Icosahedron2.fbx
+  artifactKey: Guid(a19267b7e4b6cf6479e357b514afcf8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Light_Icosahedron2.fbx using Guid(a19267b7e4b6cf6479e357b514afcf8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e33b815a30a3c54eb84d7a7199031fd') in 0.033679 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.551367 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Plate_2.fbx
+  artifactKey: Guid(e4742308e2f8b23428ef7e157317acfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Plate_2.fbx using Guid(e4742308e2f8b23428ef7e157317acfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2685e5cab9100fb60fc125257ff95b') in 0.023979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Shelf_Small2.fbx
+  artifactKey: Guid(4aa8afd70f44d0a49831433e8affb72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Shelf_Small2.fbx using Guid(4aa8afd70f44d0a49831433e8affb72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '965bcb92f158587a7ecd73d5ef798904') in 0.046114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Trashcan_Large.fbx
+  artifactKey: Guid(c6fe9df076a400d49bec799cf10e6825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Trashcan_Large.fbx using Guid(c6fe9df076a400d49bec799cf10e6825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ed15b472c3942903c713384da8a6db9') in 0.045813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Stool.fbx
+  artifactKey: Guid(ff25debfddcd39f46bf47a752fe0ae9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Stool.fbx using Guid(ff25debfddcd39f46bf47a752fe0ae9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2317d505f40ca7676a6666e546ddeddf') in 0.073256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Trashcan_Cylindric.fbx
+  artifactKey: Guid(2af047de428718a479e3cdc2ad67a24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Trashcan_Cylindric.fbx using Guid(2af047de428718a479e3cdc2ad67a24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20e3be3271d5457ab6f316fa6b06c204') in 0.022648 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Table_RoundLarge.fbx
+  artifactKey: Guid(4101551747416a543b136b97efe2a0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Table_RoundLarge.fbx using Guid(4101551747416a543b136b97efe2a0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '926ef2eee80546a7fe04dabd6455e386') in 0.020878 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016928 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Trashcan_Small1.fbx
+  artifactKey: Guid(4fad9e3748e0ad64fbebf31a57a15607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Trashcan_Small1.fbx using Guid(4fad9e3748e0ad64fbebf31a57a15607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdeca183505714997aa35d34b9b5ce4c') in 0.022413 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Window_Small2.fbx
+  artifactKey: Guid(0717e335636d81c4fa53f880d5648831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/Ultimate House Interior Pack - June 2020/FBX/Window_Small2.fbx using Guid(0717e335636d81c4fa53f880d5648831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5758d037c86a29c6c3a596733f1fbb04') in 0.034434 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

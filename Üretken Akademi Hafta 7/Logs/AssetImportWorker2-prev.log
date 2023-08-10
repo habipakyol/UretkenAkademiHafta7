@@ -1,0 +1,360 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.18f1 (3129e69bc0c7) revision 3221990'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Professional' Language: 'tr' Physical Memory: 16125 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.18f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/habip/OneDrive/Masaüstü/UNITY/ödevler/Üretken Akademi Hafta 7
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+61775
+Successfully changed project path to: C:/Users/habip/OneDrive/Masaüstü/UNITY/ödevler/Üretken Akademi Hafta 7
+C:/Users/habip/OneDrive/Masaüstü/UNITY/ödevler/Üretken Akademi Hafta 7
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [19948] Host "[IP] 192.168.1.15 [Port] 0 [Flags] 2 [Guid] 779421675 [EditorId] 779421675 [Version] 1048832 [Id] WindowsEditor(7,AKYOL) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [19948] Host "[IP] 192.168.1.15 [Port] 0 [Flags] 2 [Guid] 779421675 [EditorId] 779421675 [Version] 1048832 [Id] WindowsEditor(7,AKYOL) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 74.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.18f1 (3129e69bc0c7)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/habip/OneDrive/Masaüstü/UNITY/ödevler/Üretken Akademi Hafta 7/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x25a0)
+    Vendor:   NVIDIA
+    VRAM:     3976 MB
+    Driver:   31.0.15.3667
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56796
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007330 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 311 ms
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 100.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.146 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1147ms)
+		BeginReloadAssembly (86ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (924ms)
+			LoadAssemblies (85ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (162ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (658ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (396ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (101ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (109ms)
+				ProcessInitializeOnLoadMethodAttributes (51ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005769 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\habip\OneDrive\Masaüstü\UNITY\ödevler\Üretken Akademi Hafta 7\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\habip\OneDrive\Masaüstü\UNITY\ödevler\Üretken Akademi Hafta 7\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.942 seconds
+Domain Reload Profiling:
+	ReloadAssembly (943ms)
+		BeginReloadAssembly (89ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (768ms)
+			LoadAssemblies (61ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (298ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (322ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (18ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (91ms)
+				ProcessInitializeOnLoadAttributes (194ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3101 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (113.9 KB). Loaded Objects now: 3566.
+Memory consumption went from 112.4 MB to 112.3 MB.
+Total: 6.643800 ms (FindLiveObjects: 0.271000 ms CreateObjectMapping: 0.243800 ms MarkObjects: 5.992400 ms  DeleteObjects: 0.135500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 478919.134054 seconds.
+  path: Assets/Obstacle/FBX/Light_Cube.fbx
+  artifactKey: Guid(ff0ddf5ee413d2248a6a3143bc6cf56f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Light_Cube.fbx using Guid(ff0ddf5ee413d2248a6a3143bc6cf56f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c0856743746b181f30ce91fdeb5b446') in 0.173516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Obstacle/FBX/Light_Icosahedron2.fbx
+  artifactKey: Guid(e8d66ff5ec32e45459ef5ceb0e33abe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Light_Icosahedron2.fbx using Guid(e8d66ff5ec32e45459ef5ceb0e33abe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1d609782f49b5006b7d2802af6ee628') in 0.065305 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Obstacle/FBX/Light_Floor2.fbx
+  artifactKey: Guid(0ad6e61136a710b459d15f35650de54c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Light_Floor2.fbx using Guid(0ad6e61136a710b459d15f35650de54c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e440180ca0f28aca735a865b446fde7') in 0.057738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Obstacle/FBX/Shelf_Small1.fbx
+  artifactKey: Guid(1110e9191b139584cb8642fe22e35a43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Shelf_Small1.fbx using Guid(1110e9191b139584cb8642fe22e35a43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0d8dc820e4fbe8e62d7fca5eb610af3') in 0.041458 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Obstacle/FBX/Spoon.fbx
+  artifactKey: Guid(35f5caf1efe36604c8e7237ebefb781d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Spoon.fbx using Guid(35f5caf1efe36604c8e7237ebefb781d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3c06605ed604345a12f11cdbd37a86a') in 0.019207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Obstacle/FBX/Trashcan_Cylindric.fbx
+  artifactKey: Guid(027ed8c50a65aa04fb91d828cb3fb211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Trashcan_Cylindric.fbx using Guid(027ed8c50a65aa04fb91d828cb3fb211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59af986ae9971f197da232e46fb1d654') in 0.019172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Obstacle/FBX/Shelf_Small3.fbx
+  artifactKey: Guid(59c9a8d7bf9040340b22117131b775e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Shelf_Small3.fbx using Guid(59c9a8d7bf9040340b22117131b775e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b76238ca53cf50abe4fbe01688f20fbd') in 0.021556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Obstacle/FBX/Plate_3.fbx
+  artifactKey: Guid(0921b95a2391794428cb3ded5677e254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Plate_3.fbx using Guid(0921b95a2391794428cb3ded5677e254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c742c955246d5dea9a38d9391b52ee1') in 0.021230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Obstacle/FBX/Light_Stand2.fbx
+  artifactKey: Guid(f3d5e75b168f91f4795955ea02313c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Light_Stand2.fbx using Guid(f3d5e75b168f91f4795955ea02313c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '014c9cb5d5d34d363588754b34a0f17b') in 0.025123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Obstacle/FBX/Trashcan_Large.fbx
+  artifactKey: Guid(ea55f4c248d77d844ba76c1518c536e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Trashcan_Large.fbx using Guid(ea55f4c248d77d844ba76c1518c536e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d914b96d91f7d4b2f1bb79af7a9f17e') in 0.022783 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Obstacle/FBX/NightStand_3.fbx
+  artifactKey: Guid(efb7b2b2a5a15bb42bbddc75e569cc1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/NightStand_3.fbx using Guid(efb7b2b2a5a15bb42bbddc75e569cc1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '621a226aeecc2f7ee5df293b4464c8da') in 0.022676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Obstacle/FBX/NightStand_2.fbx
+  artifactKey: Guid(8d4e936e290469d4baba680f10e5745f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/NightStand_2.fbx using Guid(8d4e936e290469d4baba680f10e5745f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9326c79db8c842242e44b7482500bdd3') in 0.024751 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Obstacle/FBX/Light_Small.fbx
+  artifactKey: Guid(f866266499519ef46afc85b0d732869a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Light_Small.fbx using Guid(f866266499519ef46afc85b0d732869a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae73b82d243f13eebb6e2897a57c91ec') in 0.027089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Obstacle/FBX/Table_RoundLarge.fbx
+  artifactKey: Guid(42a28297a573707439ac72ff559df1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Table_RoundLarge.fbx using Guid(42a28297a573707439ac72ff559df1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3c300e5f277362a420b407e9862d592') in 0.032404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Obstacle/FBX/Shelf_1.fbx
+  artifactKey: Guid(edbb8dfb0746f4340b6a6ed7f0df5996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Shelf_1.fbx using Guid(edbb8dfb0746f4340b6a6ed7f0df5996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90215689543940c52ce075278e03bad6') in 0.023676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Obstacle/FBX/Light_Floor1.fbx
+  artifactKey: Guid(993d3524a86222c47bbadede516399b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Light_Floor1.fbx using Guid(993d3524a86222c47bbadede516399b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a556b23b1df1f8b74cb3099a05e838') in 0.026901 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.989710 seconds.
+  path: Assets/Obstacle/FBX/Trashcan_Small1.fbx
+  artifactKey: Guid(d3bc7b0798926a34cbf4997918c67d76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Trashcan_Small1.fbx using Guid(d3bc7b0798926a34cbf4997918c67d76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85d1a80cea92b8ad31c3f79e7a3576d9') in 0.021422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Obstacle/FBX/Window_Round1.fbx
+  artifactKey: Guid(085a7255fcf050047a8a13376350aacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Window_Round1.fbx using Guid(085a7255fcf050047a8a13376350aacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bda242b6a298f63d69ce2a1de526d317') in 0.025168 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Obstacle/FBX/Window_Small2.fbx
+  artifactKey: Guid(0c37aaa980d0849459c7b9929ccc6c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Window_Small2.fbx using Guid(0c37aaa980d0849459c7b9929ccc6c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89d56f97b940d7dc168cad734fec38d2') in 0.026019 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Obstacle/FBX/Window_Small3.fbx
+  artifactKey: Guid(3c423fd17d7e594438a7bf387a74f5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Window_Small3.fbx using Guid(3c423fd17d7e594438a7bf387a74f5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b64db91f1255765bf247968ef2adaa1e') in 0.026961 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Obstacle/FBX/Window_Large1.fbx
+  artifactKey: Guid(a97d2e5fb8d1ce84c991575f7bf7c4bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Obstacle/FBX/Window_Large1.fbx using Guid(a97d2e5fb8d1ce84c991575f7bf7c4bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b795f8a000e8e503a5729c2830f1e64') in 0.025083 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004028 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\habip\OneDrive\Masaüstü\UNITY\ödevler\Üretken Akademi Hafta 7\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\habip\OneDrive\Masaüstü\UNITY\ödevler\Üretken Akademi Hafta 7\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.912 seconds
+Domain Reload Profiling:
+	ReloadAssembly (913ms)
+		BeginReloadAssembly (126ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (693ms)
+			LoadAssemblies (76ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (253ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (286ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (25ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (59ms)
+				ProcessInitializeOnLoadAttributes (177ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.12 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3082 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (80.5 KB). Loaded Objects now: 3613.
+Memory consumption went from 115.6 MB to 115.6 MB.
+Total: 4.673300 ms (FindLiveObjects: 0.353600 ms CreateObjectMapping: 0.342500 ms MarkObjects: 3.859100 ms  DeleteObjects: 0.116500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
